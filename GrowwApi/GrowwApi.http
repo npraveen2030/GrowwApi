@@ -1,0 +1,6 @@
+@GrowwApi_HostAddress = http://localhost:5252
+
+GET {{GrowwApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,23 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/GrowwApi/CopilotIndices/17.13.444.19527
+/.vs/GrowwApi/FileContentIndex
+/.vs/GrowwSolution/FileContentIndex
+/.vs
+/GrowwApiUnitTestCases/obj
+/GrowwApiUnitTestCases/bin/Debug/net8.0
+/GrowwApi/bin/Debug/net8.0
+/GrowwApi/obj
+/GrowwBLL/bin/Debug/net8.0
+/GrowwBLL/obj
+/GrowwBllUnitTestCases/bin/Debug/net8.0
+/GrowwBllUnitTestCases/obj
+/GrowwDAL/bin/Debug/net8.0
+/GrowwDAL/obj
+/GrowwDalUnitTestCases/bin/Debug/net8.0
+/GrowwDalUnitTestCases/obj
+/GrowwModel/bin/Debug/net8.0
+/GrowwModel/obj
+/MyApiApp/obj
